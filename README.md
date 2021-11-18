@@ -1,0 +1,2 @@
+# bluey
+Discord bot repo.
